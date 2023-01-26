@@ -12,11 +12,11 @@
 
 .title{
     font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
+    font-size: 15rem;
 }
 
 hr {
-    width: 80px;
+    width: 800px;
     border-top: 3px solid #009688;
     margin-left: calc(50% - 40px);
 }
